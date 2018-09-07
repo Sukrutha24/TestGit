@@ -5,6 +5,6 @@ public class hello{
 		System.out.println("Hello"+i);
 		System.out.println("Success");
 	}
-	 System.out.println("Completed");
+	 System.out.println("Completed..");
  }
 }
